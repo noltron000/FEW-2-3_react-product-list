@@ -4,22 +4,22 @@ import './App.css';
 
 class App extends Component {
 
-  render() {
-    return (
-      <div className="App">
-        <h1>Show products here</h1>
+	render() {
+		return (
+			<div className="App">
+				<h1>Show products here</h1>
 
-        <ul>
-          {/* List product categories here */}
-        </ul>
+				<ul>
+					{/* List product categories here */}
+				</ul>
 
-        <ul>
-          {/* Products listed here */}
-        </ul>
+				<ul>
+					{/* Products listed here */}
+				</ul>
 
-      </div>
-    );
-  }
+			</div>
+		);
+	}
 }
 
 export default App;
