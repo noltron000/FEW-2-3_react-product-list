@@ -12,6 +12,7 @@
 
 .window-shopping {
 	grid-template-columns: 1fr 1fr;
+	columns: 2;
 }
 
 .categories * {
